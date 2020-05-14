@@ -1,0 +1,51 @@
+#gamescreen{
+    background-color: black;
+    margin-left:35% ;
+}
+
+.start{
+    background-color: royalblue;
+    color: seashell;
+    font-size: 40px;
+    font-style: italic;
+    font-family: fantasy;
+    position: absolute;
+    text-align: center;
+    padding-top: 50px;
+    width : 500px;
+    height: 100px;
+    left: 38%;
+    top: 40%;
+    border: 5px solid white;
+}
+
+#sc{
+    background-color: palevioletred;
+    color: seashell;
+    font-size: 40px;
+    font-style: italic;
+    font-family: fantasy;
+    position: absolute;
+    text-align: center;
+    padding-top: 20px;
+    width : 300px;
+    height: 80px;
+    left: 35%;
+    bottom: 0%;
+    border: 5px solid white;
+}
+#hsc{
+    background-color: palevioletred;
+    color: seashell;
+    font-size: 40px;
+    font-style: italic;
+    font-family: fantasy;
+    position: absolute;
+    text-align: center;
+    padding-top: 20px;
+    width : 300px;
+    height: 80px;
+    left: 50.5%;
+    bottom: 0%;
+    border: 5px solid white;
+}
